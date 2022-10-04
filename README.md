@@ -4,15 +4,21 @@
 
 In this project, we are planning will create a wireless IOT nodes. Which can monitor the position of any asset, If it is moving or disturbing or damaging We can monitor the Positional Parameters at the Industrial Cloud AWS (Amazon Web Services) At  AWS IoT core and Store IoT Node Real Time Data At the databases like s3 bucket, dynamo DB .and visualize the data using Industrial visualization Tools in In Aws Services  like Athena, ETLglue, Quick sight, power BI etc. 
 
-- The future updtaes of this project are monitoring the data on web app with best possible widgets 
+
+### The future updtaes of this project
+-  are monitoring the data on web app with best possible widgets 
 - publish a Reserch Journal. 
+- 
 
 
-Team members :
-Team Members: 
+
+# Team Members: 
+Project Guide :Amrinder Singh Ghotra 
 1)	Chalumuri Sai Kishore (Hardware Engineer )
-2)	Anu Shaju Ainikkal (document writer &calbiration  Engineer )
+2)	Anu Shaju Ainikkal (document writer &calbiration Engineer )
 3)	Vizia Vidya Sagar Kasina(Software Engineer)
+
+
 
 
 
