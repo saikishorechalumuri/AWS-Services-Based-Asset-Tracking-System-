@@ -8,7 +8,7 @@ In this project, we are planning will create a wireless IOT nodes. Which can mon
 ### The future updtaes of this project
 -  are monitoring the data on web app with best possible widgets 
 - publish a Reserch Journal. 
-- 
+
 
 
 
