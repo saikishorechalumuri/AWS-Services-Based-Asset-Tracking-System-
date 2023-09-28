@@ -12,11 +12,10 @@ In this project, we are planning will create a wireless IOT nodes. Which can mon
 
 
 
-# Team Members: 
-Project Guide :Amrinder Singh Ghotra 
+
 1)	Chalumuri Sai Kishore (Hardware Engineer )
-2)	Anu Shaju Ainikkal (document writer &calbiration Engineer )
-3)	Vizia Vidya Sagar Kasina(Software Engineer)
+ (document writer &calbiration Engineer )
+(Software Engineer)
 
 
 
